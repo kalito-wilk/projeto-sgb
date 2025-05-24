@@ -17,7 +17,7 @@
 
 	--fonte-projeto : 'Roboto';
 
-	--fundo-main: url('/src/imagens/background-main.jpg') no-repeat center center;
+	--fundo-main: url('../imagens/background-main.jpg') no-repeat center center;
 
 
 }
