@@ -1,10 +1,13 @@
 :root {/*vairaveis*/
 	--main-cor: #D9D9D9;
-	--input-cor: #16E635;
-	--titulo-cor: #0FF22A;
-	--section-cor: #000000;
-	--botao-cor: #16E635;
-	--form-cor: #B8F6BC;
+	--input-cor: rgba(170,169, 169, 0.75);/*#16E635;*/
+	--titulo-cor: #fff;/*#0FF22A;*/
+	--section-cor: rgba(0, 0, 0, 0.75);
+	--botao-cor: rgba(22, 19, 19, 0.75);/*#16E635;*/
+	--form-cor: rgba(255, 255, 255, 0.75);/*#B8F6BC;*/
+	--font-label-cor: #fcf9f9;/*#0FF22A*/
+	--font-input-cor: #000000;
+	--font-botao-cor: #fff;
 
 	--size-font-label: 1.5rem;
 	--size-font-titulo: 2rem;
@@ -14,5 +17,7 @@
 
 	--fonte-projeto : 'Roboto';
 
-	--font-label-cor: #0FF22A;
+	--fundo-main: url('/src/imagens/background-main.jpg') no-repeat center center;
+
+
 }
