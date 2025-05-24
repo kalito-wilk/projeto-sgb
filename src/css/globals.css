@@ -8,6 +8,8 @@
 	--font-label-cor: #fcf9f9;/*#0FF22A*/
 	--font-input-cor: #000000;
 	--font-botao-cor: #fff;
+	--font-botao-cor-hover: #fff;
+	--fundo-botao-cor-hover: rgba(110, 110, 100, 0.3);
 
 	--size-font-label: 1.5rem;
 	--size-font-titulo: 2rem;
