@@ -1,0 +1,23 @@
+:root {/*vairaveis*/
+	--main-cor: #D9D9D9;
+	--input-cor: #16E635;
+	--titulo-cor: #0FF22A;
+	--section-cor: #000000;
+	--botao-cor: #16E635;
+	--form-cor: #B8F6BC;
+
+	--size-font-label: 1.5rem;
+	--size-font-titulo: 2rem;
+	--size-font-link: 1rem;
+	--size-font-input: 1.5rem;
+	--size-font-button: 1.5rem;
+
+	--fonte-projeto : 'Roboto';
+
+	--font-label-cor: #0FF22A;
+}
+
+body {
+	height: 100vh;
+
+}

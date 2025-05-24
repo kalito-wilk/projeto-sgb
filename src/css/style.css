@@ -1,0 +1,83 @@
+main {
+	background-color: var(--main-cor);
+	height: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+section {
+	background-color: var(--section-cor);
+	width: 78%;
+	border-radius: 10px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+h1 {
+	color: var(--titulo-cor);
+	margin: 2.5rem 0 1.5rem 0;
+	font-size: 2rem;
+	font-weight: 700;
+}
+	
+form {
+	background-color: var(--form-cor);
+	width: 81%;
+	margin-bottom: 3.4rem;
+	border-radius: 1rem;
+	
+}
+
+div.forma {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin: 2rem 1.3rem 4.2rem 1.3rem;
+	font-size: 1.5rem;
+	text-align: center;
+}
+
+.forma1 {
+	margin-bottom: 2rem;
+}
+
+.forma label {
+	color: var(--font-label-cor);
+	font-weight: 700;
+	text-shadow: 1px 1px 0 black,
+				1px 1px 0 black,
+				1px 1px 0 black,
+				1px 1px 0 black,
+				1px 1px 5px black;
+}
+
+.forma input {
+	margin-top: 0.5rem;
+	width: 100%;
+	background-color: var(--input-cor);
+	border: none;
+	border-radius: 1.5rem;
+	height: 5.3rem;
+	text-align: center;
+	padding: 2rem;
+	font-size: 1.5rem;
+}
+
+button {
+	background-color: var(--botao-cor);
+	margin-top: 3.1rem;
+	width: 12.1rem;
+	height: 3rem;
+	border-radius: 1.5rem;
+	border: none;
+	font-size: 1.5rem;
+}
+
+.link {
+	margin: 0 0 2.2rem 1.3rem;
+}
+
+
+
