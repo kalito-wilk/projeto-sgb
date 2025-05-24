@@ -45,6 +45,11 @@ div.forma {
 	margin-bottom: 2rem;
 }
 
+.forma1, .forma2 {
+	width: 100%;
+
+}
+
 .forma label {
 	color: var(--font-label-cor);
 	font-weight: 700;
@@ -84,5 +89,14 @@ button {
 	margin: 0 0 2.2rem 1.3rem;
 }
 
+@media (min-width: 750px) {
 
+	.forma1, .forma2{
+		width: 80%;
+	}
+
+	section {
+		width: 60%;
+	}
+}
 
