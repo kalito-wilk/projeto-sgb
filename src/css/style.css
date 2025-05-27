@@ -1,5 +1,5 @@
 main {
-	background: var(--fundo-main);
+	background: var(--fundo-main) no-repeat center center;
 	background-size: cover;
 	height: 100svh;
 	display: flex;
